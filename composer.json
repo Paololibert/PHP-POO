@@ -1,0 +1,17 @@
+{
+    "name": "paolo/myapp",
+    "autoload": {
+        "psr-4": {
+            "Paolo\\Myapp\\": "src/",
+            "App\\": "app/",
+            "Database\\":"database/"
+        }
+    },
+    "authors": [
+        {
+            "name": "libert-paolo",
+            "email": "paolosinzo7@gmail.com"
+        }
+    ],
+    "require": {}
+}
